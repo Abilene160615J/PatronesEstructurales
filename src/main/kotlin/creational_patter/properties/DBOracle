@@ -1,0 +1,5 @@
+host localhost
+port 1521
+service orclpdb1
+user abilene1
+password pwdAbilene1
